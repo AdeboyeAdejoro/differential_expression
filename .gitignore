@@ -1,0 +1,79 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# any fastq files or fastq references
+*fastq.gz
+*fq.gz
+*fq
+*fastq
+*fasta.gz
+*fasta
+*fa.gz
+*fa
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
+rsconnect/
+.Rproj.user
+inst/doc
+
+.Rprofile
+CL08.log
+CL08/
+CL10.log
+CL10/
+CL11.log
+CL11/
+CL12.log
+CL12/
+CL13.log
+CL13/
+DiffGenes.txt
+HS01.log
+HS01/
+HS02.log
+HS02/
+HS03.log
+HS03/
+HS04.log
+HS04/
+HS05.log
+HS05/
+Homo_sapiens.GRCh38.108.chr_patch_hapl_scaff.gtf.gz
+*.log
+*.gz
+*.h5
+*.gmt
+*.csv
+*.tsv
+myDGEList
